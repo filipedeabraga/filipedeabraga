@@ -2,7 +2,7 @@
 - 👀 I’m interested in become a full-stack developer
 - 🌱 I’m currently learning front-end and back-end using html5, css3, javascript, php and mysql.
 - 💞️ I’m looking to collaborate on projects that involves a facilitation to the community.
-- 📫 How to reach me, email to filipe.braga_@hotmail.com
+- 📫 How to reach me, email to <a href="mailto:filipe.braga_@hotmail.com">Filipe Braga</a>
 
 <!---
 filipedeabraga/filipedeabraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
